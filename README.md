@@ -1,2 +1,2 @@
 # discord-webhooks-curl
-discord webhooks w/cURL
+edit json_data
